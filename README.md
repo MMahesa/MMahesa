@@ -77,6 +77,8 @@ Grow through consistent work.
 ## Contribution Graph
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MMahesa&show_icons=true&theme=transparent&hide_border=true&title_color=00C2A8&icon_color=00C2A8&text_color=c9d1d9&ring_color=00C2A8" alt="GitHub stats card" />
+  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MMahesa/MMahesa/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MMahesa/MMahesa/output/pacman-contribution-graph.svg">

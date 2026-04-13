@@ -4,6 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=760&lines=Backend+%26+Network+Engineer+in+Progress;Building+reliable+systems+and+stable+services;Learning+infrastructure%2C+APIs%2C+and+operations" alt="Typing animation" />
 
+<br />
+<img src="https://media.giphy.com/media/BejdfvEt6eoV2/giphy.gif" width="320" alt="Anime girl gif" />
+
 </div>
 
 <div align="center">

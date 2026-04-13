@@ -2,14 +2,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Progress;Building+reliable+systems+with+code;Learning+deeply%2C+shipping+consistently" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=760&lines=Backend+%26+Network+Engineer+in+Progress;Building+reliable+systems+and+stable+services;Learning+infrastructure%2C+APIs%2C+and+operations" alt="Typing animation" />
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Learning-Go%20%7C%20JavaScript%20%7C%20Python-14b8a6?style=for-the-badge&logo=go&logoColor=white" alt="Learning badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-f59e0b?style=for-the-badge&logo=rocket&logoColor=white" alt="Status badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Infrastructure-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Learning-Go%20%7C%20Python%20%7C%20Networking-14b8a6?style=for-the-badge&logo=go&logoColor=white" alt="Learning badge" />
+  <img src="https://img.shields.io/badge/Role-Builder%20of%20Systems-f59e0b?style=for-the-badge&logo=rocket&logoColor=white" alt="Status badge" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/API-REST%20Design-111827?style=flat-square&logo=fastapi&logoColor=00C2A8" alt="API badge" />
+  <img src="https://img.shields.io/badge/Network-NOC%20%26%20Monitoring-111827?style=flat-square&logo=cisco&logoColor=00C2A8" alt="Network badge" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=00C2A8" alt="Database badge" />
+  <img src="https://img.shields.io/badge/Workflow-Linux%20%26%20Git-111827?style=flat-square&logo=linux&logoColor=00C2A8" alt="Workflow badge" />
 </div>
 
 ---
@@ -18,14 +25,14 @@
 
 - Name: **Mahesa**
 - Username: **[@MMahesa](https://github.com/MMahesa)**
-- Focus: building backend systems that are useful, reliable, and clean
-- Currently learning: **Go, JavaScript, Python, Git, API development, and backend workflows**
-- Goal: become a backend developer who can build real systems with solid fundamentals
+- Focus: backend systems, network operations, and infrastructure that stay reliable under real use
+- Currently learning: **Go, Python, JavaScript, Linux, networking fundamentals, API development, and backend workflows**
+- Goal: become an engineer who can handle backend logic, system stability, and operational visibility
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,js,python,git,github,vscode,postgres" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,git,github,linux,postgres,vscode" alt="Tech stack icons" />
 </div>
 
 ## Current Mindset
@@ -36,21 +43,31 @@ Build carefully.
 Grow through consistent work.
 ```
 
-## Backend Focus
+## Engineering Direction
 
 ```text
 Core direction:
 - Backend development
-- API design
-- System logic
-- Clean and maintainable code
+- API design and service logic
+- Network visibility and NOC awareness
+- Monitoring, reliability, and maintainable systems
 ```
 
 ## What I'm Building
 
 - REST API and backend service practice projects
 - Tools that solve small real problems
-- Stronger fundamentals in Go, JavaScript, and Python
+- Stronger fundamentals in Go, Python, networking, and system operations
+
+## Operational Interests
+
+```text
+- Backend services
+- Infrastructure basics
+- Network monitoring
+- Incident awareness
+- Clean deployment flow
+```
 
 ## Contribution Activity
 
@@ -71,9 +88,9 @@ Core direction:
 ## Featured Projects
 
 - [tools-registrasi](https://github.com/MMahesa/tools-registrasi)  
-  Small project repository for registration-related tools.
+  Project repository for building useful tools with practical backend logic.
 - [tugas-aplikasi-penilaian-siswa](https://github.com/MMahesa/tugas-aplikasi-penilaian-siswa)  
-  Student assessment application project built as a learning exercise.
+  Learning project focused on application flow, logic, and implementation discipline.
 
 ## Connect With Me
 

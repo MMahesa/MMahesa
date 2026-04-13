@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <td width="60%" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00C2A8&center=false&vCenter=true&width=520&lines=Backend+%26+Network+Engineer+in+Progress;Building+reliable+systems+and+stable+services;Learning+infrastructure%2C+APIs%2C+and+operations" alt="Typing animation" />
+    <td width="64%" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00C2A8&center=false&vCenter=true&width=500&lines=Backend+%26+Network+Engineer;Building+reliable+services;Learning+APIs%2C+infra%2C+and+ops" alt="Typing animation" />
       <br /><br />
       <strong>Backend, infrastructure, and network operations.</strong>
       <br />
       Building systems that are stable, useful, and maintainable.
     </td>
-    <td width="40%" align="center">
+    <td width="36%" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV4dG5yZTEzajIwenk1cWE3MzJkcXA0dHdpOWFyYWY3ZHMxZWJ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gif" width="280" alt="Anime girl gif" />
     </td>
   </tr>

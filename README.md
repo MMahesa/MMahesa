@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td width="64%" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00C2A8&center=false&vCenter=true&width=500&lines=Backend+%26+Network+Engineer;Building+reliable+services;Learning+APIs%2C+infra%2C+and+ops" alt="Typing animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00C2A8&center=false&vCenter=true&width=500&lines=Backend+%26+Network+Engineer;Building+reliable+services;Focused+on+systems%2C+APIs%2C+and+ops" alt="Typing animation" />
       <br /><br />
-      <strong>Backend, infrastructure, and network operations.</strong>
+      <strong>Backend, infrastructure, and operational visibility.</strong>
       <br />
-      Building systems that are stable, useful, and maintainable.
+      I like systems that stay clean under pressure: stable APIs, clear logic, and reliable monitoring.
     </td>
     <td width="36%" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV4dG5yZTEzajIwenk1cWE3MzJkcXA0dHdpOWFyYWY3ZHMxZWJ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gif" width="280" alt="Anime girl gif" />
@@ -17,26 +17,23 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Infrastructure-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Learning-Go%20%7C%20Python%20%7C%20Networking-14b8a6?style=for-the-badge&logo=go&logoColor=white" alt="Learning badge" />
-  <img src="https://img.shields.io/badge/Role-Builder%20of%20Systems-f59e0b?style=for-the-badge&logo=rocket&logoColor=white" alt="Status badge" />
+  <img src="https://img.shields.io/badge/Stack-Go%20%7C%20Python%20%7C%20Linux-14b8a6?style=for-the-badge&logo=go&logoColor=white" alt="Learning badge" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/API-REST%20Design-111827?style=flat-square&logo=fastapi&logoColor=00C2A8" alt="API badge" />
   <img src="https://img.shields.io/badge/Network-NOC%20%26%20Monitoring-111827?style=flat-square&logo=cisco&logoColor=00C2A8" alt="Network badge" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=00C2A8" alt="Database badge" />
-  <img src="https://img.shields.io/badge/Workflow-Linux%20%26%20Git-111827?style=flat-square&logo=linux&logoColor=00C2A8" alt="Workflow badge" />
 </div>
 
 ---
 
 ## About Me
 
-- Name: **Mahesa**
-- Username: **[@MMahesa](https://github.com/MMahesa)**
-- Focus: backend systems, network operations, and infrastructure that stay reliable under real use
-- Currently learning: **Go, Python, JavaScript, Linux, networking fundamentals, API development, and backend workflows**
-- Goal: become an engineer who can handle backend logic, system stability, and operational visibility
+- **Mahesa** from **[@MMahesa](https://github.com/MMahesa)**
+- Focused on backend engineering, network awareness, and infrastructure fundamentals
+- Currently learning **Go, Python, JavaScript, Linux, PostgreSQL, API design, and monitoring concepts**
+- Building discipline around code quality, system stability, and operational thinking
 
 ## Tech Stack
 
@@ -44,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=go,python,js,git,github,linux,postgres,vscode" alt="Tech stack icons" />
 </div>
 
-## Current Mindset
+## Principles
 
 ```text
 Think clearly.
@@ -55,7 +52,6 @@ Grow through consistent work.
 ## Engineering Direction
 
 ```text
-Core direction:
 - Backend development
 - API design and service logic
 - Network visibility and NOC awareness
@@ -65,7 +61,7 @@ Core direction:
 ## What I'm Building
 
 - REST API and backend service practice projects
-- Tools that solve small real problems
+- Small tools that solve real problems cleanly
 - Stronger fundamentals in Go, Python, networking, and system operations
 
 ## Operational Interests
@@ -78,13 +74,7 @@ Core direction:
 - Clean deployment flow
 ```
 
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-## Pacman Graph
+## Contribution Graph
 
 <div align="center">
   <picture>
@@ -97,9 +87,9 @@ Core direction:
 ## Featured Projects
 
 - [tools-registrasi](https://github.com/MMahesa/tools-registrasi)  
-  Project repository for building useful tools with practical backend logic.
+  Utility-focused project with practical backend logic and implementation discipline.
 - [tugas-aplikasi-penilaian-siswa](https://github.com/MMahesa/tugas-aplikasi-penilaian-siswa)  
-  Learning project focused on application flow, logic, and implementation discipline.
+  Learning project focused on application logic, flow, and structured problem solving.
 
 ## Connect With Me
 
@@ -112,5 +102,5 @@ Core direction:
 ---
 
 <div align="center">
-  <sub>Hal-hal besar dimulai dari hal kecil yang ditekuni.</sub>
+  <sub>"Hal-hal besar dimulai dari hal kecil yang ditekuni."</sub>
 </div>

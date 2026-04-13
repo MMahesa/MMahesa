@@ -61,7 +61,11 @@ Core direction:
 ## Pacman Graph
 
 <div align="center">
-  <img src="https://github.com/abozanona/pacman-contribution-graph/raw/master/pacman.svg" alt="Pacman contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MMahesa/MMahesa/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MMahesa/MMahesa/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/MMahesa/MMahesa/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>
 
 ## Featured Projects

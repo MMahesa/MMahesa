@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=700&lines=Web+Developer+in+Progress;Building+useful+projects+with+code;Always+learning%2C+always+shipping" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00C2A8&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Progress;Building+reliable+systems+with+code;Learning+deeply%2C+shipping+consistently" alt="Typing animation" />
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Learning-JavaScript%20%7C%20Python-14b8a6?style=for-the-badge&logo=javascript&logoColor=white" alt="Learning badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Learning-Go%20%7C%20JavaScript%20%7C%20Python-14b8a6?style=for-the-badge&logo=go&logoColor=white" alt="Learning badge" />
   <img src="https://img.shields.io/badge/Status-Building%20Projects-f59e0b?style=for-the-badge&logo=rocket&logoColor=white" alt="Status badge" />
 </div>
 
@@ -18,22 +18,22 @@
 
 - Name: **Mahesa**
 - Username: **[@MMahesa](https://github.com/MMahesa)**
-- Focus: building simple, useful, and clean web projects
-- Currently learning: **JavaScript, Python, Git, and modern web workflows**
-- Goal: become a developer who can ship real products, not just tutorials
+- Focus: building backend systems that are useful, reliable, and clean
+- Currently learning: **Go, JavaScript, Python, Git, API development, and backend workflows**
+- Goal: become a backend developer who can build real systems with solid fundamentals
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=go,js,python,git,github,vscode,postgres" alt="Tech stack icons" />
 </div>
 
 ## Current Mindset
 
 ```text
-Keep learning.
-Keep building.
-Keep improving one project at a time.
+Think clearly.
+Build carefully.
+Grow through consistent work.
 ```
 
 ## GitHub Stats
@@ -73,5 +73,5 @@ Keep improving one project at a time.
 ---
 
 <div align="center">
-  <sub>Designed to make the profile feel alive, clean, and memorable.</sub>
+  <sub>Hal-hal besar dimulai dari hal kecil yang ditekuni.</sub>
 </div>

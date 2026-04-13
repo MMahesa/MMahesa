@@ -36,12 +36,21 @@ Build carefully.
 Grow through consistent work.
 ```
 
-## GitHub Stats
+## Backend Focus
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MMahesa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMahesa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+```text
+Core direction:
+- Backend development
+- API design
+- System logic
+- Clean and maintainable code
+```
+
+## What I'm Building
+
+- REST API and backend service practice projects
+- Tools that solve small real problems
+- Stronger fundamentals in Go, JavaScript, and Python
 
 ## Contribution Activity
 

@@ -90,8 +90,8 @@ Grow through consistent work.
 
 - [tools-registrasi](https://github.com/MMahesa/tools-registrasi)  
   Utility-focused project with practical backend logic and implementation discipline.
-- [tugas-aplikasi-penilaian-siswa](https://github.com/MMahesa/tugas-aplikasi-penilaian-siswa)  
-  Learning project focused on application logic, flow, and structured problem solving.
+- [tugas-aplikasi-penilaian-siswa](https://github.com/MMahesa/discord-lyrics)  
+  Learning project focused on API, flow, and structured problem solving.
 
 ## Connect With Me
 

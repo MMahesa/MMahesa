@@ -65,7 +65,11 @@ I design and run the back ends behind a network operations team: monitoring coll
 
 ### `$ git log --graph`
 
-<!-- 3D contribution calendar (profile-3d-contrib/profile-night-rainbow.svg) is inserted once the workflow is enabled -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MMahesa/MMahesa/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
+</div>
+
+<br />
 
 <div align="center">
   <picture>

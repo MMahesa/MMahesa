@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MMahesa/MMahesa/main/assets/header.svg" alt="M Mahesa — Backend & Network Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/MMahesa/MMahesa/main/assets/header.svg?v=2" alt="M Mahesa — Backend & Network Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1200&color=8BD5CA&center=true&vCenter=true&width=760&lines=I+build+the+systems+that+keep+a+NOC+informed.;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+PostgreSQL;SNMP+collectors%2C+OLT%2FPON+automation%2C+honest+dashboards.;Validate+%E2%86%92+Preview+%E2%86%92+Confirm+%E2%86%92+Execute+%E2%86%92+Verify" alt="typing" />
 

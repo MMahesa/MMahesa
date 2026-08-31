@@ -21,12 +21,12 @@
 
 ### `$ cat about.md`
 
-I design and run the back ends behind a network operations team: monitoring collectors for routers and GPON/EPON OLTs, typed device automation with rollback, and dashboards a shift operator can read at a glance.
+I build practical software for real-world operations. My work spans backend development, network infrastructure, automation, and internal tools, with a focus on making complex systems easier to use and maintain.
 
-- **Backend** — Go & Python services on PostgreSQL; explicit state machines, idempotent workers, verifiable rollbacks.
-- **Network** — SNMP/CLI telemetry (ZTE C620, HSGQ, HIOSO, RouterOS, VyOS), alarm correlation, traffic history, syslog/trap.
-- **NOC UX** — table-first views, honest freshness, zero noise warnings.
-- **Ops** — reproducible releases, fail-fast deploy gates, dated incident notes.
+- **Backend** — Go, Python, PostgreSQL, and reliable APIs.
+- **Infrastructure** — Linux, networking, deployment, and system operations.
+- **Automation** — tools that simplify repetitive work and reduce human error.
+- **Approach** — clear interfaces, maintainable code, and dependable releases.
 
 </td>
 <td width="42%" valign="top">

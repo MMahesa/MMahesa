@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Hal-hal besar dimulai dari hal kecil yang ditekuni">
+  <defs>
+    <linearGradient id="footer-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b16"/>
+      <stop offset="0.55" stop-color="#0b1326"/>
+      <stop offset="1" stop-color="#101a33"/>
+    </linearGradient>
+    <linearGradient id="footer-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00c2a8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="footer-glow" cx="50%" cy="100%" r="72%">
+      <stop offset="0" stop-color="#00c2a8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00c2a8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="150" rx="20" fill="url(#footer-bg)"/>
+  <rect width="1200" height="150" rx="20" fill="url(#footer-glow)"/>
+
+  <path d="M0 28 C180 4 290 52 455 28 S745 4 910 28 S1090 52 1200 28" fill="none" stroke="#23335c" stroke-width="1"/>
+  <path d="M220 28 C320 14 380 42 470 28 S650 14 740 28 S900 42 980 28" fill="none" stroke="url(#footer-line)" stroke-width="2"/>
+
+  <circle cx="220" cy="28" r="3" fill="#0b1326" stroke="#00c2a8" stroke-width="1.5"/>
+  <circle cx="600" cy="24" r="3" fill="#0b1326" stroke="#5eead4" stroke-width="1.5"/>
+  <circle cx="980" cy="28" r="3" fill="#0b1326" stroke="#a78bfa" stroke-width="1.5"/>
+
+  <text x="600" y="82" text-anchor="middle" fill="#e2e8f0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="0.25">
+    Hal-hal besar dimulai dari hal kecil yang ditekuni.
+  </text>
+  <text x="600" y="112" text-anchor="middle" fill="#7c8db5" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">
+    BUILD · LEARN · REFINE
+  </text>
+</svg>

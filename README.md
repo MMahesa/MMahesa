@@ -1,73 +1,101 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MMahesa/MMahesa/b020a5bcf76540315581d4feaeb5bfd08de7bd47/assets/header.svg" alt="M Mahesa — Backend & Network Engineer" width="100%" />
+<img src="./assets/header.svg" alt="M Mahesa — Backend & Network Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1200&color=8BD5CA&center=true&vCenter=true&width=760&lines=I+build+the+systems+that+keep+a+NOC+informed.;Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+PostgreSQL;SNMP+collectors%2C+OLT%2FPON+automation%2C+honest+dashboards.;Validate+%E2%86%92+Preview+%E2%86%92+Confirm+%E2%86%92+Execute+%E2%86%92+Verify" alt="typing" />
+<br />
 
-<p>
-  <a href="https://github.com/MMahesa"><img src="https://img.shields.io/badge/GitHub-MMahesa-0b1326?style=for-the-badge&logo=github&logoColor=5eead4" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Backend-Go%20%7C%20Python-0b1326?style=for-the-badge&logo=go&logoColor=00c2a8" alt="Backend" />
-  <img src="https://img.shields.io/badge/Network-ISP%20%2F%20NOC-0b1326?style=for-the-badge&logo=cisco&logoColor=a78bfa" alt="Network" />
-  <img src="https://komarev.com/ghpvc/?username=MMahesa&style=for-the-badge&color=00c2a8&label=VISITORS" alt="Profile views" />
-</p>
+<em>Building useful systems where software meets infrastructure.</em>
+
+<br /><br />
+
+<code>backend</code> · <code>infrastructure</code> · <code>automation</code> · <code>internal tools</code>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MMahesa/MMahesa/main/assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### `$ cat about.md`
+### `$ cat profile.md`
 
-I build practical software for real-world operations. My work spans backend development, network infrastructure, automation, and internal tools, with a focus on making complex systems easier to use and maintain.
+I build practical software for real-world operations. My work spans backend development, infrastructure, automation, and internal tools—with a focus on making complex systems easier to use and maintain.
 
-- **Backend** — Go, Python, PostgreSQL, and reliable APIs.
-- **Infrastructure** — Linux, networking, deployment, and system operations.
-- **Automation** — tools that simplify repetitive work and reduce human error.
-- **Approach** — clear interfaces, maintainable code, and dependable releases.
+I enjoy turning complicated workflows into clear interfaces and dependable systems. The best tools, to me, are the ones people can understand, trust, and keep improving.
 
 </td>
 <td width="42%" valign="top">
 
-### `$ top -o skill`
+### `$ cat toolkit.txt`
 
 ```text
- PID  %CPU  NAME
-  01  ████████░░  Go / net/http / pgx
-  02  ███████░░░  PostgreSQL 16
-  03  ███████░░░  Python / Django
-  04  ██████░░░░  Vue 3 / SvelteKit / TS
-  05  ██████░░░░  SNMP · OLT/PON CLI
-  06  █████░░░░░  Linux · systemd · nginx
-  07  ████░░░░░░  Kotlin / Compose
+languages   Go · Python · TypeScript
+data        PostgreSQL · Redis
+systems     Linux · Docker · nginx
+web         Vue · SvelteKit · Django
+mobile      Kotlin · Compose
 ```
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/MMahesa/MMahesa/main/assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-### `$ ls ~/work`
+### `$ ls selected-work/`
 
-| Project | Stack | What it does |
-| :-- | :-- | :-- |
-| 🛰️ **Network Monitor** <sub>private</sub> | Go · Vue 3 · PostgreSQL · SNMP/Telnet | Multi-vendor OLT & router monitoring for an ISP NOC — ONU lifecycle (power-down / laser-out / initial), PON status from ONU evidence, ZTE C620 typed operations with rollback, server-owned telemetry refresh, reproducible release harness. |
-| 🗺️ **Fiber Core Mapping** <sub>private</sub> | Django · GeoDjango · SvelteKit · MapLibre · Android | Fiber network mapping & field reporting — POP/ODC/ODP inventory, geospatial API, technician mobile client. |
-| 📱 **Network Toolkit** <sub>private</sub> | Kotlin · Jetpack Compose | Android toolbox for field engineers — subnet/port utilities, encrypted credential vault, quick diagnostics. |
-| 🔎 [**port-scanner**](https://github.com/MMahesa/port-scanner) | Go | Concurrent TCP port scanner with bounded workers. |
-| 📝 [**tools-registrasi**](https://github.com/MMahesa/tools-registrasi) | JavaScript | Registration utility with practical backend validation. |
-| 🎵 [**discord-lyrics**](https://github.com/MMahesa/discord-lyrics) | JavaScript | Discord bot that fetches and formats lyrics via a public API. |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img src="https://raw.githubusercontent.com/MMahesa/MMahesa/main/assets/divider.svg" alt="" width="100%" />
+#### `01` Network Monitor
 
-### `$ git log --graph`
+An operations platform for network visibility, automation, alerts, and historical insight.
+
+<sub>Go · Vue · PostgreSQL</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### `02` Fiber Core Mapping
+
+Geospatial infrastructure inventory and field reporting for fiber networks.
+
+<sub>Django · SvelteKit · MapLibre</sub>
+
+</td>
+<td width="34%" valign="top">
+
+#### `03` Network Toolkit
+
+A focused Android toolbox for practical field diagnostics and everyday utilities.
+
+<sub>Kotlin · Jetpack Compose</sub>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Public experiments</strong> · smaller tools and early projects</summary>
+
+- [**port-scanner**](https://github.com/MMahesa/port-scanner) — a concurrent TCP port scanner written in Go.
+- [**tools-registrasi**](https://github.com/MMahesa/tools-registrasi) — a small JavaScript registration utility.
+- [**discord-lyrics**](https://github.com/MMahesa/discord-lyrics) — a Discord bot experiment built around a public API.
+
+</details>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+### `$ activity --year`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MMahesa/MMahesa/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
 </div>
+
+<details>
+<summary><strong>More activity</strong> · contribution trail and repository metrics</summary>
 
 <br />
 
@@ -79,32 +107,26 @@ I build practical software for real-world operations. My work spans backend deve
   </picture>
 </div>
 
-<details>
-<summary><b>$ metrics --full</b></summary>
 <br />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MMahesa/MMahesa/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
+
 </details>
 
-<img src="https://raw.githubusercontent.com/MMahesa/MMahesa/main/assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-### `$ cat principles.txt`
+### `$ cat approach.txt`
 
-```text
-Every production change ships with a backup, a hash-pinned baseline,
-a health gate, and an automatic rollback path.
-Device writes are typed and bounded — no arbitrary CLI, no guessed
-commands, evidence before "online".
-Findings are written down the same day: root cause + prevention.
-```
+> I like software that is useful, understandable, and easy to operate. Good engineering should reduce uncertainty—not add more of it.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,ts,js,vue,svelte,django,kotlin,postgres,redis,docker,linux,nginx,git&perline=14" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=go,python,ts,vue,svelte,django,kotlin,postgres,redis,docker,linux,nginx,git&perline=13" alt="Technology stack" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2a8,50:2563eb,100:a78bfa&height=120&section=footer&text=Hal-hal%20besar%20dimulai%20dari%20hal%20kecil%20yang%20ditekuni.&fontSize=16&fontColor=e2e8f0&fontAlignY=70&animation=fadeIn" alt="footer" width="100%" />
+  <img src="./assets/footer.svg" alt="Hal-hal besar dimulai dari hal kecil yang ditekuni" width="100%" />
 </div>

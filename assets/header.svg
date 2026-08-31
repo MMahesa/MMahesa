@@ -108,9 +108,9 @@
         <rect x="0" y="0" width="122" height="26" rx="13" fill="#0f2a2a" stroke="#00c2a8" stroke-opacity=".5"/>
         <text class="mono" x="61" y="17" text-anchor="middle" style="fill:#5eead4;letter-spacing:.5px">Go · Python</text>
         <rect x="134" y="0" width="160" height="26" rx="13" fill="#1a1633" stroke="#a78bfa" stroke-opacity=".5"/>
-        <text class="mono" x="214" y="17" text-anchor="middle" style="fill:#c4b5fd;letter-spacing:.5px">Monitoring · NOC</text>
-        <rect x="306" y="0" width="166" height="26" rx="13" fill="#0f1a33" stroke="#7c8db5" stroke-opacity=".5"/>
-        <text class="mono" x="389" y="17" text-anchor="middle" style="fill:#cbd5e1;letter-spacing:.5px">OLT · PON · SNMP</text>
+        <text class="mono" x="214" y="17" text-anchor="middle" style="fill:#c4b5fd;letter-spacing:.5px">Backend · APIs</text>
+        <rect x="306" y="0" width="220" height="26" rx="13" fill="#0f1a33" stroke="#7c8db5" stroke-opacity=".5"/>
+        <text class="mono" x="416" y="17" text-anchor="middle" style="fill:#cbd5e1;letter-spacing:.5px">Network · Infrastructure</text>
       </g>
     </g>
   </g>
